@@ -30,6 +30,7 @@ build/
 target/
 bin/
 dependency-reduced-pom.xml
+sandbox/
 
 # Eclipse Project Files
 
@@ -55,3 +56,4 @@ dependency-reduced-pom.xml
 
 README.html
 application.properties
+
